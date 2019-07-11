@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Эльвира Ильясова](https://up.htmlacademy.ru/adaptive/17/user/73441).
-* Наставник: Оксана ✿ Сергеева.(https://htmlacademy.ru/profile/oksana)
+* Наставник: Оксана Сергеева.(https://htmlacademy.ru/profile/oksana)
 
 ---
 
