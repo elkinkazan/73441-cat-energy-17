@@ -1,0 +1,18 @@
+.body{
+  width:320px;
+}
+.choice__background{
+  display: block;
+  background: url(../img/index-background-mobile@1x.jpg) no-repeat;
+  background-size: cover;
+}
+.choice__slogan, .choice__intro {
+  color:white;
+}
+.choise__link{
+  background: url(../img/index-background-mobile@1x.jpg) no-repeat;
+  display: inline-block;
+  padding: 5px 15px; /* Поля */
+  text-decoration: none; /* Убираем подчёркивание */
+  color: white; /* Цвет текста */
+  }
