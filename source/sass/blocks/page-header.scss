@@ -1,0 +1,32 @@
+
+.page-header{
+ /* Style for "white back" */
+ width: 320px;
+ height: 65px;
+}
+.header-wrapper{
+ display: flex;
+}
+.page-header__logo-cat{
+  /* Style for "logo-mobil" */
+ width: 33px;
+ height: 38px;
+ margin: 11px 57px 16px 20px;
+}
+.page-header__logo-img{
+ /* Style for "logo-mobil" */
+ width: 101px;
+ height: 18px;
+ margin-top: 24px;
+ margin-bottom: 23px;
+}
+.page-header__menu-img{
+ /* Style for "mobile-men" */
+ width: 24px;
+ height: 18px;
+ background-color: #222222;
+ margin: 23px 20px 24px 65px;
+}
+.main-nav{
+ display: none;
+}

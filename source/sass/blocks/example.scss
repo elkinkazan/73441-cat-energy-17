@@ -1,0 +1,71 @@
+.example{
+ margin-left: 20px;
+ margin-right: auto;
+ background: url(../img/grey_back.png) no-repeat;
+}
+.example__title{
+ height: 37px;
+ color: #111111;
+ font-family: 'Oswald', sans-serif;
+ font-size: 36px;
+ font-weight: 400;
+ line-height: 60px;
+ padding: 33px 87px 33px 0px;
+ margin: 0;
+}
+.example__info{
+width: 266px;
+height: 103px;
+color: #444444;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+margin: 0;
+padding-right: 14px;
+}
+.example__cost{
+height: 14px;
+color: #111111;
+font-family: 'Oswald', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-transform: uppercase;
+padding: 38px 46px 44px 47px;
+margin:0;
+}
+.example__cat{
+ width: 311px;
+ height: 232px;
+ padding: 0;
+}
+.example__text1{
+ height: 15px;
+ color: #111111;
+ font-family: 'Oswald', sans-serif;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 20px;
+ text-transform: uppercase;
+ padding: 35px 19px 38px 44px;
+ margin:0;
+}
+.example__scale{
+ padding: 35px 18px 38px 0px;
+}
+.example__text2{
+ width: 40px;
+ height: 15px;
+ color: #111111;
+ font-family: 'Oswald', sans-serif;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 20px;
+ text-transform: uppercase;
+ padding: 35px 39px 38px 0px;
+ margin:0;
+}
+.example__wrapper{
+ display: flex;
+}
